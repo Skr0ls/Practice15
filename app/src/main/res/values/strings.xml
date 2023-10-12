@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice15</string>
+    <string name="main_text_view">Добро пожловать!
+                                    Введите данные вашего питомца:</string>
+    <string name="race">Порода:</string>
+    <string name="age">Дата рождения:</string>
+
+    <string name="activity_second_hello_message">Вот данные о вашем питомце:</string>
+
+    <string name="finish_button">Завершить</string>
+    <string name="send_button">Продолжить</string>
+
+    <string name="hint_race">Хаски</string>
+    <string name="hint_date">DD.MM.YYYY</string>
+</resources>
